@@ -135,4 +135,3 @@ conflicting row/column/box.
 
 * **MNIST:** Yann LeCun & Corinna Cortes; public dataset. We redistribute
   nothing -- `make_data.py` downloads it on demand.
-* **Project code:** MIT (see `LICENSE` if present).
