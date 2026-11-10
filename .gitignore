@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data & model artifacts
+data/*.pkl
+data/*.pt
+data/*.pth
+data/*.h5
+data/*.npz
+data/*.ckpt
+models/
+checkpoints/
