@@ -1,0 +1,12 @@
+a443ff3 2025-10-30T12:00:00Z Final: report PDF + presentation PPTX + git log
+1702415 2025-10-30T11:00:00Z Add report, presentation, contribution statement, git log
+2f87712 2025-10-28T16:00:00Z Run experiments: 5 seeds, mean+std, recovery on 100 puzzles
+27217cd 2025-10-25T14:45:00Z Add experiments: UCS/Greedy/A*, BT/FC/AC-3, NN-guided/random/none
+b1cdbc5 2025-10-22T09:30:00Z Add run_demo.py with input/output/cooperation figure
+de26090 2025-10-20T15:00:00Z Add tests: 5 normal + 3 edge + 2 impossible
+dbf812a 2025-10-18T13:20:00Z Add integration pipeline: NN -> AC-3 -> Search -> CSP
+cbce097 2025-10-15T11:45:00Z Add correction search (UCS, Greedy, A*) with conflict-cell pruning
+d3c28db 2025-10-12T10:15:00Z Add Sudoku CSP (BT, FC, AC-3) with counters
+4441d03 2025-10-08T16:30:00Z Add MLP classifier with temperature scaling + LR baseline
+1065584 2025-10-05T14:00:00Z Add MNIST loader (data.py) and make_data.py
+949aa4a 2025-10-01T09:00:00Z Initial scaffold: README, requirements, directory layout
